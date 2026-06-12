@@ -1,0 +1,53 @@
+{
+  "lists": [
+    {
+      "name": "Personal",
+      "tasks": [
+        {
+          "title": "go to gym",
+          "description": "",
+          "created_at": "2026-06-12T20:37:49.887289",
+          "deadline": "2026-06-19T00:00:00",
+          "priority": 2,
+          "completed": false
+        },
+        {
+          "title": "study web",
+          "description": "",
+          "created_at": "2026-06-12T20:37:58.931937",
+          "deadline": "2026-06-19T00:00:00",
+          "priority": 3,
+          "completed": false
+        },
+        {
+          "title": "walk to dog",
+          "description": "",
+          "created_at": "2026-06-12T20:38:05.361454",
+          "deadline": "2026-06-19T00:00:00",
+          "priority": 1,
+          "completed": false
+        },
+        {
+          "title": "buy milk",
+          "description": "",
+          "created_at": "2026-06-12T20:38:18.725088",
+          "deadline": "2026-06-19T00:00:00",
+          "priority": 1,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Mariam",
+      "tasks": []
+    },
+    {
+      "name": "projects",
+      "tasks": []
+    },
+    {
+      "name": "list",
+      "tasks": []
+    }
+  ]
+}
