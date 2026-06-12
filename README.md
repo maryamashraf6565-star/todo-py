@@ -59,6 +59,19 @@ todo-py/
     }
   ]
 }
+Setup & Installation
+Clone or download the repository
+
+Install Python 3.8+ (if not already installed)
+
+Install dependencies
+
+bash
+pip install -r requirements.txt
+Run the application
+
+bash
+python src/main.py
 Dependencies:
 PyQt6 – GUI framework
 Python standard library (json, pathlib, datetime)
